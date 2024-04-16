@@ -1,2 +1,6 @@
 # Atividade-Mobile
-Criação de um protótipo de aplicativo para um jogo retrô
+- Amanda e Juliana<br>
+## Sobre o projeto
+- Este projeto é um protótipo de uma aplicativo sobre o jogo retro Seaquest. Contem imagems e descrições sobre o jogo e o protótipo do aplicativo.
+## Wiki do projeto
+- <a href="https://github.com/Amanda-Meneghin/Atividade-Mobile/wiki/Sobre-o-Jogo">Sobre o Jogo</a>
