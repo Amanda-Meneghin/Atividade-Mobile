@@ -1,4 +1,6 @@
 # Atividade-Mobile Seaquest
+
+#Alunos 
 - <strike>Amanda</strike>
 - Juliana 
 - Lucas Carvalho<br>
