@@ -5,4 +5,4 @@
 ## Wiki do projeto
 - <a href="https://github.com/Amanda-Meneghin/Atividade-Mobile/wiki/Sobre-o-Jogo">Sobre o Jogo</a>
 - <a href="https://github.com/Amanda-Meneghin/Atividade-Mobile/wiki/Prot%C3%B3tipo-do-Aplicativo">Protótipo do aplicativo</a>
-- <a href="https://github.com/Amanda-Meneghin/Atividade-Mobile.wiki.git">Desenvolvimento Flutter</a>
+- <a href="https://github.com/Amanda-Meneghin/Atividade-Mobile/wiki/Desenvolvimento-Flutter">Desenvolvimento Flutter</a>
