@@ -1,5 +1,5 @@
 # Atividade-Mobile Seaquest
-- Amanda e Juliana<br>
+- Juliana e Lucas Carvalho<br>
 ## Sobre o projeto
 - Este projeto é um protótipo de uma aplicativo sobre o jogo retrô Seaquest. Contem imagems e descrições sobre o jogo e o protótipo do aplicativo.
 ## Wiki do projeto
