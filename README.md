@@ -3,7 +3,8 @@
 # Alunos 
 - <strike>Amanda</strike>
 - Juliana 
-- Lucas Carvalho<br>
+- <strike>Lucas Carvalho</strike>
+- Bryan <br>
 ## Sobre o projeto
 - Este projeto é um protótipo de uma aplicativo sobre o jogo retrô Seaquest. Contem imagems e descrições sobre o jogo e o protótipo do aplicativo.
 ## Wiki do projeto
